@@ -1,1 +1,1 @@
-# Python
+Bara massa små tramsprogram
